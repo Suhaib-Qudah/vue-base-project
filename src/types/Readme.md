@@ -1,4 +1,4 @@
-#  Project - Types Directory
+# Project - Types Directory
 
 ## Overview
 

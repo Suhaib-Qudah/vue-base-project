@@ -7,6 +7,7 @@ Here's a detailed `README.md` for your `vue-base-project`:
 This repository serves as a foundational setup for building Vue 3 applications. It includes a minimal yet scalable structure, pre-configured with essential tools like Vite for development, Vue Router for navigation, and Pinia for state management.
 
 ## Table of Contents
+
 - [Features](#features)
 - [Getting Started](#getting-started)
 - [Project Structure](#project-structure)
@@ -16,6 +17,7 @@ This repository serves as a foundational setup for building Vue 3 applications. 
 - [License](#license)
 
 ## Features
+
 - **Vue 3** with Composition API
 - **Vite** for fast builds and hot module replacement
 - **Vue Router** for client-side routing
@@ -31,17 +33,20 @@ This repository serves as a foundational setup for building Vue 3 applications. 
 Follow these steps to get the project up and running on your local machine.
 
 ### Prerequisites
+
 Make sure you have [Node.js](https://nodejs.org/en/) and [npm](https://www.npmjs.com/) installed.
 
 ### Installation
 
 1. **Clone the repository**:
+
    ```bash
    git clone git@github.com:Suhaib-Qudah/vue-base-project.git
    cd vue-base-project
    ```
 
 2. **Install dependencies**:
+
    ```bash
    npm install
    ```
@@ -53,14 +58,19 @@ Make sure you have [Node.js](https://nodejs.org/en/) and [npm](https://www.npmjs
    This will start the app on `http://localhost:5173/`.
 
 ### Build for production
+
 To build the project for production, run:
+
 ```bash
 npm run build
 ```
+
 This will create a `dist/` folder with your production-ready files.
 
 ### Preview the production build
+
 You can preview the production build locally with:
+
 ```bash
 npm run preview
 ```
@@ -90,6 +100,7 @@ vue-base-project/
 ```
 
 ## Scripts
+
 Here are some useful npm scripts:
 
 - **`npm run dev`**: Run the app in development mode with Vite.
@@ -111,4 +122,3 @@ Contributions By [Suhaib Qudah](https://github.com/Suhaib-Qudah)
 ## License
 
 This project is licensed under the MIT License.
-
